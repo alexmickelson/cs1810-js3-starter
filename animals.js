@@ -1,8 +1,8 @@
 export const animals = [
-    {
-      title: "This is a Giraffe",
-      image: "/images/giraffe.jpeg",
-      description: `According to wikipedia: The giraffe's chief distinguishing
+  {
+    title: "This is a Giraffe",
+    image: "/images/giraffe.jpeg",
+    description: `According to wikipedia: The giraffe's chief distinguishing
                     characteristics are its extremely long neck and legs, its
                     horn-like ossicones, and its spotted coat patterns. It is
                     classified under the family Giraffidae, along with its closest
@@ -11,12 +11,12 @@ export const animals = [
                     in the west to Somalia in the east. Giraffes usually inhabit
                     savannahs and woodlands. Their food source is leaves, fruits,
                     and flowers of woody plants, primarily acacia species, which
-                    they browse at heights most other herbivores cannot reach.`
-    },
-    {
-      title: "This is a Lion",
-      image: "/images/lion.jpg",
-      description: `According to wikipedia: The lion (Panthera leo) is a large cat
+                    they browse at heights most other herbivores cannot reach.`,
+  },
+  {
+    title: "This is a Lion",
+    image: "/images/lion.jpg",
+    description: `According to wikipedia: The lion (Panthera leo) is a large cat
                     of the genus Panthera native to Africa and India. It has a
                     muscular, broad-chested body; short, rounded head; round ears;
                     and a hairy tuft at the end of its tail. It is sexually
@@ -27,12 +27,12 @@ export const animals = [
                     together, preying mostly on large ungulates. The lion is an
                     apex and keystone predator; although some lions scavenge when
                     opportunities occur and have been known to hunt humans, lions
-                    typically do not actively seek out and prey on humans.`
-    },
-    {
-      title: "This is a Zebra",
-      image: "/images/zebra.jpg",
-      description: `According to wikipedia: Zebras are primarily grazers and can
+                    typically do not actively seek out and prey on humans.`,
+  },
+  {
+    title: "This is a Zebra",
+    image: "/images/zebra.jpg",
+    description: `According to wikipedia: Zebras are primarily grazers and can
                     subsist on lower-quality vegetation. They are preyed on mainly
                     by lions, and typically flee when threatened but also bite and
                     kick. Zebra species differ in social behaviour, with plains
@@ -45,12 +45,12 @@ export const animals = [
                     the species is promiscuous. Zebras communicate with various
                     vocalisations, body postures and facial expressions. Social
                     grooming strengthens social bonds in plains and mountain
-                    zebras.`
-    },
-    {
-      title: "This is a Elephant",
-      image: "/images/elephant.jpg",
-      description: `According to wikipedia: Elephants are scattered throughout
+                    zebras.`,
+  },
+  {
+    title: "This is a Elephant",
+    image: "/images/elephant.jpg",
+    description: `According to wikipedia: Elephants are scattered throughout
                     sub-Saharan Africa, South Asia, and Southeast Asia and are
                     found in different habitats, including savannahs, forests,
                     deserts, and marshes. They are herbivorous, and they stay near
@@ -61,12 +61,12 @@ export const animals = [
                     to live in family groups, which can consist of one female with
                     her calves or several related females with offspring. The
                     leader of a female group, usually the oldest cow, is known as
-                    the matriarch.`
-    },
-    {
-      title: "This is a Water Buffalo",
-      image: "/images/waterBuffalo.jpg",
-      description: `According to wikipedia: Water buffalo (Bubalus bubalis), also
+                    the matriarch.`,
+  },
+  {
+    title: "This is a Water Buffalo",
+    image: "/images/waterBuffalo.jpg",
+    description: `According to wikipedia: Water buffalo (Bubalus bubalis), also
                     called the domestic water buffalo or Asian water buffalo, is a
                     large bovid originating in the Indian subcontinent and
                     Southeast Asia. Today, it is also found in Italy, the Balkans,
@@ -76,6 +76,6 @@ export const animals = [
                     the river buffalo of the Indian subcontinent and further west
                     to the Balkans, Egypt and Italy and the swamp buffalo, found
                     from Assam in the west through Southeast Asia to the Yangtze
-                    valley of China in the east.[1][2]`
-    },
-  ]
+                    valley of China in the east.[1][2]`,
+  },
+];
